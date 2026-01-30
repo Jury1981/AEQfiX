@@ -8,7 +8,7 @@ This guide explains how to work with Work-In-Progress (WIP) branches and use squ
 
 ### What is a WIP Branch?
 
-A WIP (Work In Progress) branch is a feature branch that contains incomplete or experimental work. It's a way to share progress, get early feedback, or collaborate on unfinished features.
+A WIP (Work-In-Progress) branch is a feature branch that contains incomplete or experimental work. It's a way to share progress, get early feedback, or collaborate on unfinished features.
 
 ### Creating a WIP Branch
 
